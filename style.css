@@ -33,3 +33,6 @@
 .card-img-top{
     height: 50vh;
 }
+html {
+    scroll-padding-top: 70px; /* Adjust this value based on navbar height */
+}
